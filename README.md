@@ -9,7 +9,7 @@ This gives a good example of how bloom filters can be used quickly and efficient
 
 prints output to a file named bloom_filter_output_[date]--[time].txt and prints the output to the command line
 
-## Installation - non OSU server
+## Installation
 ```bash
 pip install -r requirements.txt 
 ```
